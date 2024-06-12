@@ -18,6 +18,8 @@ header{
     border: transparent;
     display: flex;
     align-items: center;
+    position: fixed;
+    z-index: 2;
 }
 
 header h1{
